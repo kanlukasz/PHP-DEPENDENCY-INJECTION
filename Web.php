@@ -1,7 +1,5 @@
 <?php
  
-// Web.php
- 
 class Web
 {
     private $browser;

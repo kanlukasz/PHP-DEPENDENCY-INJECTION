@@ -1,7 +1,5 @@
 <?php
  
-// Browser.php
- 
 class Browser
 {
     public function getLang() 
